@@ -9,7 +9,7 @@
 	<title>
 	Comments for Citizenship	</title>
 	<atom:link href="http://localhost/ckiw/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://sreenathar.github.io/ckiw</link>
+	<link>https://sreenathar.github.io/ckiw</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>
 	Thu, 07 Mar 2019 13:49:54 +0000	</lastBuildDate>
@@ -21,10 +21,10 @@
 			<item>
 				<title>
 				Comment on Hello world! by A WordPress Commenter				</title>
-				<link>/https://sreenathar.github.io/ckiw/2019/03/07/hello-world/#comment-1</link>
+				<link>https://sreenathar.github.io/ckiw/2019/03/07/hello-world/#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 07 Mar 2019 13:49:54 +0000</pubDate>
-		<guid isPermaLink="false">/https://sreenathar.github.io/ckiw/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://sreenathar.github.io/ckiw/?p=1#comment-1</guid>
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>

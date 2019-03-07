@@ -9,7 +9,7 @@
 	<title>
 	Comments on: Sample Page	</title>
 	<atom:link href="http://localhost/ckiw/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://sreenathar.github.io/ckiw</link>
+	<link>https://sreenathar.github.io/ckiw</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>
 	Thu, 07 Mar 2019 13:49:54 +0000	</lastBuildDate>
